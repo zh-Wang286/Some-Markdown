@@ -12,7 +12,7 @@
 
 - 知乎|[Windows系统Git安装教程（详解Git安装过程）](https://zhuanlan.zhihu.com/p/242540359)2020-09-14
 - 知乎|[Git安装步骤](https://zhuanlan.zhihu.com/p/406808554)2021-09-04
-
+ 
 安装成功后，在桌面或资源管理器任意位置右键，会出现Git命令
 
 ![image-20220120115423069](image-20220120115423069.png)
