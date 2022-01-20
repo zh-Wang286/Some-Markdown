@@ -47,7 +47,7 @@ git version 2.34.1.windows.1
 
 ![image-20220120104208790](image-20220120104208790.png)
 
-在空工程（Empty Project）中添加模块（Modules）
+在空工程（Empty Project）中添加模块（Modules）  
 
 ![image-20220120104454657](image-20220120104454657.png)
 
