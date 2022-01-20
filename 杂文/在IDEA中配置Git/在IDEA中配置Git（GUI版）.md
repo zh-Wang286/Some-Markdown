@@ -53,7 +53,7 @@ git version 2.34.1.windows.1
 
 创建本地库
 
-工具栏`VCS-Create Git Repository`（早起IDEA版本可能在`VCS-Import into Version Control-Create Git Repository`）
+工具栏`VCS-Create Git Repository`（有些IDEA版本可能在`VCS-Import into Version Control-Create Git Repository`）
 
 ![image-20220120105203338](image-20220120105203338.png)
 
